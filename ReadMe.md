@@ -160,21 +160,21 @@ There are 3 methods to install Xtreme, we recommend you use the **Web Updater**,
 <br>
 
 > <details><summary><code>Web Updater (Chrome)</code></summary><ul>
->   <li>Open the <a href="https://github.com/Flipper-XFW/Xtreme-Firmware/releases/latest">latest release page</a> and click on the <code>Web Updater</code> link</li>
+>   <li>Open the <a href="https://github.com/PaulGG-code/Phoenix-Firmware/releases/latest">latest release page</a> and click on the <code>Web Updater</code> link</li>
 >   <li>Make sure qFlipper is closed</li>
 >   <li>Click <code>Connect</code> and select your Flipper from the list</li>
 >   <li>Click <code>Flash</code> and wait for the update to complete</li>
 > </ul></details>
 
 > <details><summary><code>qFlipper Package (.tgz)</code></summary><ul>
->   <li>Download the qFlipper package (.tgz) from the <a href="https://github.com/Flipper-XFW/Xtreme-Firmware/releases/latest">latest release page</a></li>
+>   <li>Download the qFlipper package (.tgz) from the <a href="https://github.com/Paulgg-code/Phoenix-Firmware/releases/latest">latest release page</a></li>
 >   <li>Open <a href="https://flipperzero.one/update">qFlipper</a> and connect your Flipper</li>
 >   <li>Click <code>Install from file</code></li>
 >   <li>Select the .tgz you downloaded and wait for the update to complete</li>
 > </ul></details>
 
 > <details><summary><code>Zipped Archive (.zip)</code></summary><ul>
->   <li>Download the zipped archive (.zip) from the <a href="https://github.com/Flipper-XFW/Xtreme-Firmware/releases/latest">latest release page</a></li>
+>   <li>Download the zipped archive (.zip) from the <a href="https://github.com/PaulGG-code/Phoenix-Firmware/releases/latest">latest release page</a></li>
 >   <li>Extract the archive. This is now your new Firmware folder</li>
 >   <li>Open <a href="https://flipperzero.one/update">qFlipper</a>, head to <code>SD/Update</code> and simply move the firmware folder there</li>
 >   <li>On the Flipper, hit the <code>Arrow Down</code> button, this will get you to the file menu. In there simply search for your updates folder</li>
