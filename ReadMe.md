@@ -1,4 +1,4 @@
-<h1 align="center">XFW - <code>Xtreme Firmware</code> for the Flipper Zero</h1>
+<h1 align="center">PHYN - <code>Phoenix Firmware</code> for the Flipper Zero</h1>
 
 <p align="center">
   <img src="https://github.com/Flipper-XFW/Xtreme-Firmware/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4">
@@ -28,7 +28,7 @@ Note, the below mentioned changes are only a few things we did. For a full list 
 
 -----
 <br>
-<h2 align="center">Xtreme Settings:</h2>
+<h2 align="center">Phoenix Settings:</h2>
 
 We wrote a powerful yet easy-to-use application specifically for our Firmware, that gives you easy-access to all the fancy things we implemented:
 
@@ -106,7 +106,7 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 ```txt
 [Added]
 
-- Xtreme App
+- Phoenix App
 - Asset Packs
 - More UI options
 - Bad-Keyboard App
@@ -155,16 +155,9 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 <h2 align="center">Install:</h2>
 <br>
 
-There are 3 methods to install Xtreme, we recommend you use the **Web Updater**, but choose whichever one you prefer:
+There are 3 methods to install Phoenix, choose whichever one you prefer:
 
 <br>
-
-> <details><summary><code>Web Updater (Chrome)</code></summary><ul>
->   <li>Open the <a href="https://github.com/PaulGG-code/Phoenix-Firmware/releases/latest">latest release page</a> and click on the <code>Web Updater</code> link</li>
->   <li>Make sure qFlipper is closed</li>
->   <li>Click <code>Connect</code> and select your Flipper from the list</li>
->   <li>Click <code>Flash</code> and wait for the update to complete</li>
-> </ul></details>
 
 > <details><summary><code>qFlipper Package (.tgz)</code></summary><ul>
 >   <li>Download the qFlipper package (.tgz) from the <a href="https://github.com/Paulgg-code/Phoenix-Firmware/releases/latest">latest release page</a></li>
@@ -192,8 +185,8 @@ There are 3 methods to install Xtreme, we recommend you use the **Web Updater**,
 
 ```bash
 To download the needed tools:
-$ git clone --recursive --jobs 8 https://github.com/Flipper-XFW/Xtreme-Firmware.git
-$ cd Xtreme-Firmware/
+$ git clone --recursive --jobs 8 https://github.com/PaulGG-code/Phoenix-Firmware.git
+$ cd Phoenix-Firmware/
 
 To flash directly to the Flipper (Needs to be connected via USB, qFlipper closed)
 $ ./fbt flash_usb_full
@@ -215,15 +208,6 @@ $ ./fbt launch APPSRC=some_appid
 
 [![Contributors](https://user-images.githubusercontent.com/49810075/228231815-8f0a267d-ac1a-494c-9cd0-1cd57568fc79.svg)](https://github.com/Flipper-XFW/Xtreme-Firmware/graphs/contributors)
 
-
-## ❤️ Support
-If you like what you're seeing, **please consider donating to us**. We won't ever put this behind a paywall, but we'd still appreciate a few bucks!
-
-- **[Patreon](https://patreon.com/crazyco)**: ❤️ Account needed, subscription with perks across my entire org.
-- **[Wire-transfer](https://bunq.me/ClaraK)**: No account needed, one-time
-- **[Paypal](https://paypal.me/ClaraCrazy)**: Account needed, one-time
-- **[ko-fi](https://ko-fi.com/cynthialabs)**: No account needed, one-time
-- **Monero**: `41kyWeeoVdK4quzQ4M9ikVGs6tCQCLfdx8jLExTNsAu2SF1QAyDqRdjfGM6EL8L9NpXwt89HJeAoGf1aoArk7nDr4AMMV4T`
 
 **Thanks for all your support <3**
 

@@ -124,10 +124,10 @@ void flipper_init() {
         flipper_migrate_files();
         flipper_boot_status(canvas, "Starting Namespoof");
         NAMESPOOF_INIT();
-        flipper_boot_status(canvas, "Loading Xtreme Settings");
+        flipper_boot_status(canvas, "Loading Phoenix Settings");
         XTREME_SETTINGS_LOAD();
         furi_hal_light_sequence("rgb RB");
-        flipper_boot_status(canvas, "Loading Xtreme Assets");
+        flipper_boot_status(canvas, "Loading Phoenix Assets");
         XTREME_ASSETS_LOAD();
     } else {
         FURI_LOG_I(TAG, "Special boot, skipping optional components");
