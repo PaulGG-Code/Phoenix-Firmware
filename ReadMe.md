@@ -1,11 +1,11 @@
 <h1 align="center">PHYN - <code>Phoenix Firmware</code> for the Flipper Zero</h1>
 
 <p align="center">
-  <img src="https://github.com/Flipper-XFW/Xtreme-Firmware/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4">
+  <img src="https://bafybeihgl6vkburezkqq6sebrrop5x6vvwnofz62tkv4git4rgsvs7ehki.ipfs.nftstorage.link/Phoenix%20Firmware.png">
 </p>
 
 <h2 align="center">
-  <a href="https://flipper-xtre.me">Website</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#What-makes-it-special">Intro</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#Install">Install</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#list-of-changes">Changelog</a> | <a href="https://github.com/Flipper-XFW/Xtreme-Firmware/wiki">Wiki</a> | <a href="https://discord.gg/flipper-xtreme">Discord</a> | <a href="https://github.com/Flipper-XFW/Xtreme-Firmware#%EF%B8%8F-support">Donate</a>
+  <a href="https://flipperphoenix.xyz">Website</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#What-makes-it-special">Intro</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#Install">Install</a> | <a href="https://github.com/PaulGG-Code/Phoenix-Firmware#list-of-changes">Changelog</a>
 </h2>
 
 This firmware is a complete overhaul of the [Official Firmware](https://github.com/flipperdevices/flipperzero-firmware), and also features lots of awesome code-bits from [Unleashed](https://github.com/DarkFlippers/unleashed-firmware).
@@ -39,7 +39,7 @@ Also, perhaps a bigger height, with set width (yes distrotion issues ik) so it f
 
 -->
 
-<img src="https://user-images.githubusercontent.com/49810075/228392945-1e68b996-4e2c-46c6-8aae-d0aadd8ea001.gif" align="left" height="160vh"/>
+<img src="https://bafybeihgl6vkburezkqq6sebrrop5x6vvwnofz62tkv4git4rgsvs7ehki.ipfs.nftstorage.link/Screenshot-20240128-205503.png" align="left" height="160vh"/>
 <img align="left" height="180vh" width="10" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 
 - <ins><b>Interface:</b></ins> Customize every bit of your Flipper, from the desktop animations, to the main menu apps, lockscreen style etc.
@@ -75,7 +75,7 @@ Once you have some packs, upload them to your Flipper in <code>SD/asset_packs</c
 <br>
 
 <img src="https://user-images.githubusercontent.com/55334727/214013624-25dad48e-72ea-4a90-9060-66e137e0d61a.png" align="left" width="200px"/>
-After installing the packs to Flipper, hit the <code>Arrow UP</code> button on the main menu and go to <code>Xtreme Settings</code>. Here choose which pack you want and tweak the other settings how you prefer, then press back to reboot and enjoy your new assets for all apps (e.g. Subghz scanning asset) & animations!
+After installing the packs to Flipper, hit the <code>Arrow UP</code> button on the main menu and go to <code>Phoenix Settings</code>. Here choose which pack you want and tweak the other settings how you prefer, then press back to reboot and enjoy your new assets for all apps (e.g. Subghz scanning asset) & animations!
 
 <br clear="left"/>
 
@@ -158,6 +158,13 @@ Note: This repo is always updated with OFW & Unleashed. No need to mention all t
 There are 3 methods to install Phoenix, choose whichever one you prefer:
 
 <br>
+
+> <details><summary><code>Web Updater (Chrome)</code></summary><ul>
+>   <li>Open the <a href="https://lab.flipper.net/?url=https://bafybeiejqwyewxbiuvg2ckdqi5ftejt2qvxph67kselqxrzhi5uaqm3tum.ipfs.nftstorage.link/ipfs/bafybeiejqwyewxbiuvg2ckdqi5ftejt2qvxph67kselqxrzhi5uaqm3tum/dev/flipper-z-f7-update-PHYN-DEV_%40CEA2C2C.tgz">latest release fw on flipper uploader</a> and click on the <code>Install</code> button</li>
+>   <li>Make sure qFlipper is closed</li>
+>   <li>Click <code>Connect</code> and select your Flipper from the list</li>
+>   <li>Click <code>Install</code> and wait for the update to complete</li>
+> </ul></details>
 
 > <details><summary><code>qFlipper Package (.tgz)</code></summary><ul>
 >   <li>Download the qFlipper package (.tgz) from the <a href="https://github.com/Paulgg-code/Phoenix-Firmware/releases/latest">latest release page</a></li>
